@@ -1,5 +1,4 @@
-# Analytics-Capstone-Project
-# Project Title: Citi Bike Trip Histories
+# Project Title: Citi Bike Trip Histories 
 
 # Project Description
 
