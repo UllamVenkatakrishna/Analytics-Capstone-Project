@@ -1,7 +1,7 @@
 # Analytics-Capstone-Project
-**Project Title:** Citi Bike Trip Histories
+# Project Title: Citi Bike Trip Histories
 
-**Project Description**
+# Project Description
 
 The project provides access to Citi Bike trip data for anyone to use. The data is available in downloadable files and includes information about individual bike rides. This allows people like developers, researchers, and artists to analyze the data to answer questions about how and when people use the bike-sharing system.
 
