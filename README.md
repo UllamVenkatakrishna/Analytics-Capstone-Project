@@ -16,3 +16,19 @@ The type of bike used
 Whether the rider was a member or a one-time user
 
 The project also offers real-time data and monthly reports for a more complete picture of the system's operations.
+
+## Programming Language
+- **Python**
+
+## Libraries
+- **Pandas**: For data manipulation and analysis.
+- **Matplotlib/Seaborn**: For data visualization.
+- **Plotly**: Optional, for interactive mapping and visualization.
+
+## Prerequisites
+1. **Google Colab**
+3. **Python Libraries**:
+   - `pandas`
+   - `matplotlib`
+   - `seaborn`
+   - `plotly` (optional, if interactive map is implemented with Plotly)
