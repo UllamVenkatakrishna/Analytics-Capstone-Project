@@ -32,3 +32,6 @@ The project also offers real-time data and monthly reports for a more complete p
    - `matplotlib`
    - `seaborn`
    - `plotly` (optional, if interactive map is implemented with Plotly)
+
+## Notion link
+link : https://www.notion.so/City-Bike-Info-27ff707809b380aa9bf6eb521b19832d?source=copy_link
