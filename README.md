@@ -10,7 +10,7 @@ The data is freely available from the official website:
 👉 https://citibikenyc.com/system-data
 
 Each file contains details about millions of trips taken by people in New York City.
-Because the raw data files are very large, they were cleaned and saved in a special format called Parquet which is faster and smaller in size compared to normal CSV files.
+Because the raw data files are very large, they were cleaned and saved in a special format called **Parquet** which is faster and smaller in size compared to normal CSV files.
 
 This project teaches how to handle large real-world datasets and draw useful conclusions from them using simple Python tools.
 
@@ -25,7 +25,7 @@ This project teaches how to handle large real-world datasets and draw useful con
 
 Each of these objectives helps improve data handling, thinking, and analytical skills.
 
-## 🧩 Dataset Description
+## Dataset Description
 The Citi Bike dataset records every single bike trip.  
 Each row represents **one ride**.  
 Below are the important columns and what they mean:
@@ -46,7 +46,7 @@ Those columns may be missing in newer files because the data structure changes o
 In this project, columns like `ride_id`, `start_station_id`, and `end_station_id` were **removed** because they do not help in understanding user behavior.  
 They are just technical identifiers and make the file heavier.
 
-##  Key Ideas and Insights
+## Key Ideas and Insights
 After cleaning and organizing the data, we can find many interesting facts, such as:
 
 1. **Station Usage:**  
@@ -73,7 +73,7 @@ After cleaning and organizing the data, we can find many interesting facts, such
 These insights can later be used by city planners or the company to improve the bike system.
 
 
-## 🧮 Tools and Technologies
+##  Tools and Technologies
 
 | Tool | What It Is Used For |
 |------|----------------------|
@@ -85,7 +85,7 @@ These insights can later be used by city planners or the company to improve the 
 | **Citi Bike System Data** | The real dataset that provides trip information. |
 
 
-### ⚙️ Data Optimization
+### Data Optimization
 Large datasets can be slow to process.  
 Optimization means making them faster and smaller by:
 - Using **Parquet files** instead of CSV (smaller and faster).  
